@@ -1,0 +1,15 @@
+li.isDead {
+  background-color: #fa8072;
+
+  p {
+    color: #fff;
+  }
+
+  button {
+    background-color: #fff;
+
+    &:last-child {
+      background-color: transparent;
+    }
+  }
+}
